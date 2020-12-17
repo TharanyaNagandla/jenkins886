@@ -1,0 +1,7 @@
+D:\Specialisation Phase\DevOps Day 3\SampleJenkinsApplication\SampleJenkinsApplication\bin\Debug\SampleJenkinsApplication.exe.config
+D:\Specialisation Phase\DevOps Day 3\SampleJenkinsApplication\SampleJenkinsApplication\bin\Debug\SampleJenkinsApplication.exe
+D:\Specialisation Phase\DevOps Day 3\SampleJenkinsApplication\SampleJenkinsApplication\bin\Debug\SampleJenkinsApplication.pdb
+D:\Specialisation Phase\DevOps Day 3\SampleJenkinsApplication\SampleJenkinsApplication\obj\Debug\SampleJenkinsApplication.csprojAssemblyReference.cache
+D:\Specialisation Phase\DevOps Day 3\SampleJenkinsApplication\SampleJenkinsApplication\obj\Debug\SampleJenkinsApplication.csproj.CoreCompileInputs.cache
+D:\Specialisation Phase\DevOps Day 3\SampleJenkinsApplication\SampleJenkinsApplication\obj\Debug\SampleJenkinsApplication.exe
+D:\Specialisation Phase\DevOps Day 3\SampleJenkinsApplication\SampleJenkinsApplication\obj\Debug\SampleJenkinsApplication.pdb
